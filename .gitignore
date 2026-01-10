@@ -1,0 +1,12 @@
+# This is a releases-only repository
+# No source code is published
+
+# All files ignored by default
+*
+
+# Only allow specific files
+!README.md
+!LICENSE
+!.gitignore
+!CHANGELOG.md
+!INSTALLATION.md
