@@ -27,15 +27,15 @@ SimpleMoxieSwitcher is a control system for Moxie robots that gives you complete
 
 ### Platforms
 
-- **macOS** - macOS 13.0 or later ([Download .dmg](https://openmoxie.org/downloads/SimpleMoxieSwitcher-Mac.dmg))
-- **Windows** - Windows 10 (19041+) or Windows 11 ([Download .exe](https://openmoxie.org/downloads/SimpleMoxieSwitcher-Setup.exe))
-- **iOS** - Remote control app ([Get on TestFlight](https://openmoxie.org/download))
+- **macOS** - macOS 13.0 or later 
+- **Windows** - Windows 10 (19041+) or Windows 11 
+- **iOS** - Remote control app 
 
 ## Quick Start
 
 ### Desktop (Mac/Windows)
 
-1. Download installer from [openmoxie.org/download](https://openmoxie.org/download)
+1. To Download Visit Our Google Drive At OpenMoxie 2.0 (https://drive.google.com/drive/folders/1p0NC8dvroVD-c8QP2NGTh3dVX00wDVhr?usp=drive_link)
 2. Run the installer - it will automatically set up:
    - Docker Desktop
    - Mosquitto MQTT broker
@@ -44,13 +44,6 @@ SimpleMoxieSwitcher is a control system for Moxie robots that gives you complete
 4. Connect your Moxie robot
 5. Start interacting!
 
-### iOS Remote
-
-1. Install TestFlight app from App Store
-2. Open [TestFlight invitation link](https://openmoxie.org/download)
-3. Install MoxieRemote
-4. Enter your computer's IP address in settings
-5. Control Moxie from anywhere in your house
 
 ## Requirements
 
