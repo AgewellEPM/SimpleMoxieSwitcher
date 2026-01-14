@@ -7,7 +7,7 @@
 
 ## What is SimpleMoxieSwitcher?
 
-SimpleMoxieSwitcher is a control system for Moxie robots that gives you complete control without cloud subscriptions or monthly fees. Everything runs locally on your computer.
+SimpleMoxieSwitcher is a control system for OpenMoxie robots that gives you complete control without cloud subscriptions or monthly fees. Everything runs locally on your computer.
 
 ### Features
 
