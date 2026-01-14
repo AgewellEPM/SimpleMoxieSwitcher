@@ -49,7 +49,7 @@
 ### Steps
 
 1. **Download**
-   - Visit [openmoxie.org/download](https://openmoxie.org/download)
+   - Visit Our Google Drive At OpenMoxie 2.0 (https://drive.google.com/drive/folders/1p0NC8dvroVD-c8QP2NGTh3dVX00wDVhr?usp=drive_link)
    - Click "Download for Windows"
    - Save `SimpleMoxieSwitcher-Setup.exe`
 
