@@ -21,10 +21,6 @@ SimpleMoxieSwitcher is a control system for Moxie robots that gives you complete
 - 🎨 **Customization** - Change Moxie's appearance and behavior
 - 🔒 **Privacy** - All data stays on your computer, never sent to cloud
 
-## Download
-
-**[Download SimpleMoxieSwitcher →](https://openmoxie.org/download)**
-
 ### Platforms
 
 - **macOS** - macOS 13.0 or later 
